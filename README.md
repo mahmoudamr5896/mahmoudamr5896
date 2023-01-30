@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m A DATA ANALYST 
--MY CERTIFACTION 
+### 🔭 I’m A DATA ANALYST 
+## MY CERTIFACTION 
 ![UC-f3071d1b-b734-4df7-9800-3b17366643c0](https://user-images.githubusercontent.com/100859586/215483878-56a82490-335f-4e7c-98e7-9f9f48a139ae.jpg)
 
 
