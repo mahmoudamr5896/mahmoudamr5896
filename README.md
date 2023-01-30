@@ -1,5 +1,4 @@
 #### Hi i'm mahmoud amr  👋
-![273572315_1619131581783124_5748338446694742125_n](https://user-images.githubusercontent.com/100859586/215483302-eca40e07-19ed-4d77-99cf-f37cc2c3fa28.jpg)
 
 <!--
 **mahmoudamr5896/mahmoudamr5896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
