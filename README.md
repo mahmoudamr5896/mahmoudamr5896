@@ -1,12 +1,11 @@
 #### Hi i'm mahmoud amr  👋
 ![IMG_5905](https://user-images.githubusercontent.com/100859586/215487955-66620c24-a399-47b9-867f-2906f307b909.png)
 
-linked in :
-kaggle :
+linked in : https://www.linkedin.com/in/mahmoudamr5896/
 
 
 
-### 🔭 I’m A DATA ANALYST 
+### 🔭                  I’m A DATA ANALYST 
 ## MY CERTIFACTION 
 ![analysis](https://user-images.githubusercontent.com/100859586/215496820-448b7231-baf1-4d1c-82c0-5687f9bb6318.jpg)
 ## Data analsis 
@@ -18,6 +17,26 @@ kaggle :
 ## Deep learinig
 ![r](https://user-images.githubusercontent.com/100859586/215497664-61718e0e-16f7-43db-938f-1c67d1c152e0.jpg)
 ## R(programing) DAta analysis
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 - 🌱 I’m currently learning ...
