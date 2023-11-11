@@ -1,5 +1,4 @@
 ## Hi i'm mahmoud amr  👋
-![IMG_5905](https://user-images.githubusercontent.com/100859586/215487955-66620c24-a399-47b9-867f-2906f307b909.png)
 
 linked in : https://www.linkedin.com/in/mahmoudamr5896/
  <img src="https://user-images.githubusercontent.com/100859586/216819111-e6bf03c3-55fb-4820-a9c9-4c6b8d61fd19.jpg)
