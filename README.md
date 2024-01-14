@@ -3,7 +3,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)](https://wakatime.com/@hassaneldash)
+[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)]()
 
 <!-- Intro  -->
 <h3 align="center">
@@ -36,14 +36,11 @@
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  🎓 &emsp; Proud graduate of the Information Technology Institute (ITI). <br/>
- 🎯 &emsp; Completed the Accelerated Computer Science Fundamentals Specialization from the University of Illinois at Urbana-Champaign. <br/>
- 🪪 &emsp; Certified by Meta as a proficient Full-Stack Software Engineer and Mobile Developer (Native/Cross-Platform). <br/>
- 📜 &emsp; Completed Udacity's Advanced Android Kotlin Development Nanodegree. <br/>
+ 🪪 &emsp; Certified by Ibm as a proficient Full-Stack Software Engineer and Mobile Developer (Native/Cross-Platform). <br/>
  ❤️ &emsp; Love writing code and learning new technologies. <br/>
- ✌️ &emsp; Enjoy teaching and sharing knowledge <br/>
- 📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
- 💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
-</p> -->
+ 📧 &emsp; Reach me anytime:01060860534)<br/>
+ 💬 &emsp; Ask me about anything [])
+</p>
 <br/>
 <br/>
 <br/>
@@ -51,11 +48,8 @@
 
 ## My Skills
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin&logoColor=0095D5)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=ED8B00)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=white&logo=Flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=white&logo=Dart&logoColor=0175C2)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=white&k&logo=react&logoColor=61DBFB)
@@ -73,35 +67,12 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&labelColor=white&logo=C%2B%2B&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=white&logo=PHP&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&labelColor=white&logo=MySQL&logoColor=00000F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=white&logo=PostgreSQL&logoColor=316192)
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&labelColor=white&logo=microsoft-access&logoColor=A4373A)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=D83B01)
 
-<!-- ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=white&logo=Microsoft_Excel&logoColor=217346)
-![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=white&logo=Microsoft_PowerPoint&logoColor=B7472A)
-![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&labelColor=white&logo=Microsoft_Word&logoColor=2B579A) -->
 
 
 
-<br/>
-<p align="left">
-  <a href="https://github.com/hassaneldash?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<hr/>
-<p align="center">
-  <a href="https://github.com/hassaneldash">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaneldash&theme=radical&border=7F3FBF&background=0D1117" alt="Hassan ELDash's GitHub streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hassaneldash">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaneldash&theme=radical" alt="Hassan ELDash's GitHub Contribution"/>
-  </a>
-</p>
-<a> 
-    <a href="https://github.com/hassaneldash"><img alt="Hassan ELDash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hassaneldash&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/hassaneldash"><img alt="Hassan ELDash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hassaneldash&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+
 
 
