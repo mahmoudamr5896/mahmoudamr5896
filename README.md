@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Hassan ELDash</b>
+                <b>Mahmoud Amr Hassn </b>
         </samp>
 </h3>
 <p align="center"> 
@@ -33,7 +33,7 @@
 <!-- About Section -->
  # About me
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  🎓 &emsp; Proud graduate of the Information Technology Institute (ITI). <br/>
  🎯 &emsp; Completed the Accelerated Computer Science Fundamentals Specialization from the University of Illinois at Urbana-Champaign. <br/>
@@ -43,7 +43,7 @@
  ✌️ &emsp; Enjoy teaching and sharing knowledge <br/>
  📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
  💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
-</p>
+</p> -->
 <br/>
 <br/>
 <br/>
@@ -104,4 +104,4 @@
   <br/>
 </a>
 
-![Hassan ELDash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassaneldash&custom_title=Hassan%20ELDash%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
