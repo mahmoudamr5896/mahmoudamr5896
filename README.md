@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/hassaneldash" target="_blank">
+ <a  heef="https://www.linkedin.com/in/mahmoudamr5896?" utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_apptarget="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassaneldash"/>
  </a>
- <a href="https://t.me/hassaneldash" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="hassaneldash"  />
+ <a href="https" target="_blank">
+  <-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="hassaneldash"  />
   </a> 
- <a href="https://twitter.com/Hassan_ELDash" target="_blank">
+ <a _ELDash" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 </p>
