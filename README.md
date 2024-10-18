@@ -55,7 +55,7 @@
 # About Me
 <p>
   <!-- Replace the source with your own GIF if desired -->
-  <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
+  <img align="right" width="350" src="/giphy.gif" alt="Coding gif" />
   <br/>
 
   👨‍💻 &emsp; Data Engineer with a passion for data modeling and data warehousing. <br/>
