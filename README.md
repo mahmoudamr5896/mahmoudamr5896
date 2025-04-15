@@ -52,7 +52,7 @@
 
 
 <hr/>
-##About Me
+# About Me
 <p>
   <!-- Replace the source with your own GIF if desired -->
   <img align="right" width="350" src="/giphy.gif" alt="Coding gif" />
